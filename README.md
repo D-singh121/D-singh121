@@ -1,4 +1,4 @@
-<img src="https://github.com/D-singh121/Dee121-/assets/108144751/df50c53a-889d-4a05-89cd-b1d42b77aeb2">
+<img src="https://github.com/D-singh121/Dee121-/assets/108144751/df50c53a-889d-4a05-89cd-b1d42b77aeb2" alt="banner-img">
 <h1 align="center">Hi 👋, I'm Devesh Choudhary</h1>
 <h3 align="center">A passionate Fullstack & DevOps engineer from India</h3>
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Devesh121](https://hashnode.com/@Devesh121)
 
-- 💬 Ask me about **React,JavaScript,Nodejs-express,Docker,kubernetes ,jenkins,terraform etc...**
+- 💬 Ask me about **React, JavaScript, Nodejs-express, Docker,Kubernetes,Jenkins, terraform, etc...**
 
 - 📫 How to reach me **choudharydevesh121@gmail.com**
 
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devesh choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devesh choudhary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devesh choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh choudhary" height="30" width="40" /></a>
+<a href="https://twitter.com/Dee_Singh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devesh choudhary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devesh-choudhary-b25a01152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh choudhary" height="30" width="40" /></a>
 <a href="https://hashnode.com/@devesh121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devesh121" height="30" width="40" /></a>
 </p>
 
