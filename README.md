@@ -1,4 +1,4 @@
-<img src="https://github.com/D-singh121/Dee121-/assets/108144751/df50c53a-889d-4a05-89cd-b1d42b77aeb2" alt="banner-img">
+<img src="https://app.gemoo.com/share/image-annotation/611407572464865280?codeId=DWa25Z42ynW68&origin=imageurlgenerator&card=611407570187358208" alt="banner-img">
 <h1 align="center">Hi 👋, I'm Devesh Choudhary</h1>
 <h3 align="center">A passionate Fullstack & DevOps engineer from India</h3>
 
