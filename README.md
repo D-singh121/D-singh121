@@ -1,4 +1,4 @@
-// ![logo](https://github.com/D-singh121/D-singh121/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+#![logo](https://github.com/D-singh121/D-singh121/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Devesh Choudhary</h1>
 <h3 align="center">A passionate Fullstack & DevOps engineer from India</h3>
 
